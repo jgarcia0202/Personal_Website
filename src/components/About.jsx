@@ -11,7 +11,7 @@ const About = () => {
                     <p className='text-4xl font-bold inline border-b-4 border-cyan-400'>About</p>
                 </div>
                 <div>
-                <img src={Profile} className=" w-28 h-36 ml-9 rounded-full " />
+                <img src={Profile} alt='profile picture' className=" w-28 h-36 ml-9 rounded-full " />
                 </div>
                 </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
