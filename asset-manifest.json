@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/Personal_Website/static/css/main.57d4348a.css",
-    "main.js": "/Personal_Website/static/js/main.ce726840.js",
+    "main.css": "/Personal_Website/static/css/main.3552082b.css",
+    "main.js": "/Personal_Website/static/js/main.00df68e8.js",
+    "static/media/foodApp.PNG": "/Personal_Website/static/media/foodApp.283a5acfad658b008d25.PNG",
     "static/media/realestate.jpg": "/Personal_Website/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/profile.JPG": "/Personal_Website/static/media/profile.95437170d40f01e31076.JPG",
     "static/media/workImg.jpeg": "/Personal_Website/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
-    "static/media/to-do2.PNG": "/Personal_Website/static/media/to-do2.a268dfaa5e4ab1120bf7.PNG",
     "static/media/react.png": "/Personal_Website/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/Personal_Website/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/Personal_Website/static/media/node.952a9ea986dcfa5229ad.png",
@@ -16,11 +17,11 @@
     "static/media/firebase.png": "/Personal_Website/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/Personal_Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Personal_Website/index.html",
-    "main.57d4348a.css.map": "/Personal_Website/static/css/main.57d4348a.css.map",
-    "main.ce726840.js.map": "/Personal_Website/static/js/main.ce726840.js.map"
+    "main.3552082b.css.map": "/Personal_Website/static/css/main.3552082b.css.map",
+    "main.00df68e8.js.map": "/Personal_Website/static/js/main.00df68e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.57d4348a.css",
-    "static/js/main.ce726840.js"
+    "static/css/main.3552082b.css",
+    "static/js/main.00df68e8.js"
   ]
 }
