@@ -2,7 +2,7 @@ import React from 'react'
 import WorkImg from '../assets/workImg.jpeg'
 import realEstate from '../assets/realestate.jpg'
 import WorkItem from './WorkItem'
-import to_do from "../assets/to-do2.PNG"
+import foodApp from "../assets/foodApp.PNG"
 
 const Work = () => {
   return (
@@ -16,7 +16,12 @@ const Work = () => {
     {/* Container */}
             <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
     {/* Grid Item */}
-                <WorkItem name='To Do List' img={to_do} />
+                <WorkItem 
+                name='Food App' 
+                img={foodApp}
+                tryIt='https://jgarcia0202.github.io/food-app/'
+                code='https://github.com/jgarcia0202/food-app'
+                 />
                 {/*<WorkItem name='React JS Application' img={realEstate} />
                 <WorkItem name='React JS Application' img={WorkImg} />
                 <WorkItem name='React JS Application' img={realEstate} />

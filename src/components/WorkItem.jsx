@@ -1,6 +1,6 @@
 import React from 'react'
 
-const WorkItem = ({img, name}) => {
+const WorkItem = ({img, name, tryIt, code}) => {
   return (
     <div style={{backgroundImage: `url(${img})`}}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
@@ -12,10 +12,10 @@ const WorkItem = ({img, name}) => {
                                 {name}
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                                <a href={tryIt}>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Try It</button>
                                 </a>
-                                <a href="/">
+                                <a href={code}>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
