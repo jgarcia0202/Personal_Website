@@ -3,6 +3,7 @@ import WorkImg from '../assets/workImg.jpeg'
 import realEstate from '../assets/realestate.jpg'
 import WorkItem from './WorkItem'
 import foodApp from "../assets/foodApp.PNG"
+import netflix from "../assets/netflix-clone-demo.PNG"
 
 const Work = () => {
   return (
@@ -22,8 +23,13 @@ const Work = () => {
                 tryIt='https://jgarcia0202.github.io/food-app/'
                 code='https://github.com/jgarcia0202/food-app'
                  />
-                {/*<WorkItem name='React JS Application' img={realEstate} />
-                <WorkItem name='React JS Application' img={WorkImg} />
+                <WorkItem 
+                name='Netflix Clone' 
+                img={netflix}
+                tryIt='https://jgarcia0202.github.io/Netflix-Clone/'
+                code='https://github.com/jgarcia0202/Netflix-Clone'
+                 />
+                {/*<WorkItem name='React JS Application' img={WorkImg} />
                 <WorkItem name='React JS Application' img={realEstate} />
                 <WorkItem name='React JS Application' img={WorkImg} />
                 <WorkItem name='React JS Application' img={realEstate} />*/}
