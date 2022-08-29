@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/Personal_Website/static/css/main.3552082b.css",
-    "main.js": "/Personal_Website/static/js/main.00df68e8.js",
+    "main.js": "/Personal_Website/static/js/main.29004b1d.js",
+    "static/media/netflix-clone-demo.PNG": "/Personal_Website/static/media/netflix-clone-demo.d717f9d6d61f1f2c8147.PNG",
     "static/media/foodApp.PNG": "/Personal_Website/static/media/foodApp.283a5acfad658b008d25.PNG",
     "static/media/realestate.jpg": "/Personal_Website/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/profile.JPG": "/Personal_Website/static/media/profile.95437170d40f01e31076.JPG",
@@ -18,10 +19,10 @@
     "static/media/javascript.png": "/Personal_Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Personal_Website/index.html",
     "main.3552082b.css.map": "/Personal_Website/static/css/main.3552082b.css.map",
-    "main.00df68e8.js.map": "/Personal_Website/static/js/main.00df68e8.js.map"
+    "main.29004b1d.js.map": "/Personal_Website/static/js/main.29004b1d.js.map"
   },
   "entrypoints": [
     "static/css/main.3552082b.css",
-    "static/js/main.00df68e8.js"
+    "static/js/main.29004b1d.js"
   ]
 }
